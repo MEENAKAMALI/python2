@@ -1,2 +1,2 @@
-a="meena"
+a="aabbcc"
 print(a[::-1])
